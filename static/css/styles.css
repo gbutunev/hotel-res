@@ -340,3 +340,8 @@ button:hover {
     align-content: flex-end;
     justify-content: center;
 }
+
+.selected-room{
+    background-color: #cfcbca !important;
+}
+
